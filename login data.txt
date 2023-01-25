@@ -1,0 +1,29 @@
+Admin
+--------------------------------------
+
+email: admin@gmail.com
+password: admin1234
+
+
+employee
+--------------------------------
+
+email: minhajulsiam786@gmail.com
+password: 1234
+
+
+user
+--------------------------------
+
+
+email: minhajulsiam370@gmail.com
+password: 1234
+
+
+Note: first create jobseekers database then import the jobseekers.sql file
+
+Note: 
+you can create your own account for that in otp_send php file use your email and less secure option password
+that is needed because of mail system.
+For zoom api use your zoom account email also your zoom api key and api secret key in zoom api php file
+For SSl use your store id ,store password and ship name in checkout php file
